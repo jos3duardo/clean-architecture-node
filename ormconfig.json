@@ -1,6 +1,6 @@
 {
    "type": "sqlite",
-   "database": "database.sqlite",
+   "database": "src/framework/database/database.sqlite",
    "synchronize": true,
    "logging": false,
    "entities": [
